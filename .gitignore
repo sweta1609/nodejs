@@ -1,0 +1,8 @@
+.qodo
+
+# Node modules
+node_modules/
+
+# Optional: Environment & logs
+.env
+*.log
